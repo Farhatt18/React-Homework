@@ -13,6 +13,8 @@ Currently, two official plugins are available:
 - npm install
 - npm run dev in the root directory
 - o to open the brower
+- npm run lint to check for errors
+- npm install -D vite-plugin-eslint
 
 ### Vite Plugin
 
